@@ -30,3 +30,4 @@ A simple desktop calculator application developed using C++ and the Qt Widgets l
 ## How to Run
 
 Open the project using Qt Creator with a Qt 6 kit and build the project using CMake.
+AUTHOR : GAURAV KANDPAL
